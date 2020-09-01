@@ -1,4 +1,4 @@
-### Voila!, You got me here 👋
+### Voila! You got me here 👋
 
 - ✨ I'm an undergrad from Indian Institute of Information Technology, Surat
 - 🖥  Coding is love, work is worship
@@ -12,6 +12,3 @@
 - 📫 How to reach me: avanishcodes@gmail.com
 - 😄 Pronouns: I am not a pro, as of now
 - ⚡ Fun fact: I love old classical songs and new international kinda movies
-
-### My GitHub Stats
-
