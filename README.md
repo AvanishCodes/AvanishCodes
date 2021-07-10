@@ -12,3 +12,6 @@
 - 📫 How to reach me: avanishcodes@gmail.com
 - 😄 Pronouns: I am not a pro, as of now
 - ⚡ Fun fact: I love old classical songs and new international kinda movies
+
+
+- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) times visited since July 10, 2021.
