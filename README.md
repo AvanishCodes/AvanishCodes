@@ -14,4 +14,4 @@
 - ⚡ Fun fact: I love old classical songs and new international kinda movies
 
 
-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) times visited since July 10, 2021.
+- ![Visitor Count](https://profile-counter.glitch.me/AvanishCodes/count.svg) times visited since July 10, 2021.
