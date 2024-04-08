@@ -1,17 +1,10 @@
 ### Voila! You got me here 👋
 
-- ✨ I'm an undergrad from Indian Institute of Information Technology, Surat
+- ✨ I'm graduated with B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Surat](https://iiitsurat.ac.in/).
 - 🖥  Coding is love, work is worship
 - 💻 Python is important, C++ is fast, Java is robust but C is the God
-- 💦 I hail from the land of Ganges
-- 🔭 I’m currently working on developing Web Applications
-- 🌱 I’m currently learning Android and Flutter Programming
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Data  Structures and Algorithms
-- 💬 Ask me about anything except how my code works, just joking, only my code
 - 📫 How to reach me: avanishcodes@gmail.com
 - 😄 Pronouns: I am not a pro, as of now
-- ⚡ Fun fact: I love old classical songs and new international kinda movies
 
 <br />
 
@@ -55,10 +48,9 @@
   
 [![Linkedin](https://img.shields.io/badge/-avanishcodes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avanishcodes/)
 [![Gmail](https://img.shields.io/badge/-avanishcodes-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:avanishcodes@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@avanishcodes-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AvanishCodes)
-[![Instagram](https://img.shields.io/badge/-AvanishCodes-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/avanishcodes)
+[![X (formerly Twitter)](https://img.shields.io/badge/-@avanishcodes-blue?style=flat&logo=Twitter&logoColor=white)](https://t.me/AvanishCodes)
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from different backgrounds,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 </p>
 <br />
 
