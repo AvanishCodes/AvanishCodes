@@ -1,6 +1,11 @@
 ### Voila! You got me here 👋
 
-- ✨ I'm graduated with B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Surat](https://iiitsurat.ac.in/).
+- ✨ I graduated with B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Surat](https://iiitsurat.ac.in/).
+- I previously worked with
+  - [Denave](https://www.linkedin.com/company/denave/)
+  - [Goat Crypto](https://www.linkedin.com/company/the-goat-fund/)
+  - [Supermind](https://www.linkedin.com/company/getsupermind/)
+  - [Anakin](https://www.linkedin.com/company/anakintech)
 - 📫 How to reach me: avanishcodes@gmail.com
 
 <br />
@@ -47,7 +52,7 @@
 [![Gmail](https://img.shields.io/badge/-avanishcodes-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:avanishcodes@gmail.com)
 [![X (formerly Twitter)](https://img.shields.io/badge/-@avanishcodes-blue?style=flat&logo=Twitter&logoColor=white)](https://t.me/AvanishCodes)
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from different backgrounds,</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from different backgrounds,</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :blush:</em>
 </p>
 <br />
 
