@@ -1,10 +1,7 @@
 ### Voila! You got me here 👋
 
 - ✨ I'm graduated with B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Surat](https://iiitsurat.ac.in/).
-- 🖥  Coding is love, work is worship
-- 💻 Python is important, C++ is fast, Java is robust but C is the God
 - 📫 How to reach me: avanishcodes@gmail.com
-- 😄 Pronouns: I am not a pro, as of now
 
 <br />
 
