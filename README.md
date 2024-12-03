@@ -1,6 +1,7 @@
 ### Voila! You got me here 👋
 
 - ✨ I graduated with B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Surat](https://iiitsurat.ac.in/).
+- I am currently working at [Redbrick AI](https://www.linkedin.com/company/redbrickai)
 - I previously worked with
   - [Denave](https://www.linkedin.com/company/denave/)
   - [Goat Crypto](https://www.linkedin.com/company/the-goat-fund/)
@@ -13,6 +14,8 @@
 ---
 
 ## 🔥 My contribution streak
+
+[![wakatime](https://wakatime.com/badge/user/848508df-76c2-4114-b14f-a5b4a175b138.svg)](https://wakatime.com/@848508df-76c2-4114-b14f-a5b4a175b138)
 
 <p align="center">
   <a href="https://github.com/AvanishCodes/github-readme-streak-stats">
