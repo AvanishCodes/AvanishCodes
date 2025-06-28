@@ -1,16 +1,34 @@
 ### Voila! You got me here 👋
 
 - ✨ I graduated with B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Surat](https://iiitsurat.ac.in/).
-- I am currently working at [Redbrick AI](https://www.linkedin.com/company/redbrickai)
+- I am currently working at [Paytm Money](https://www.linkedin.com/company/paytmmoney)
 - I previously worked with
   - [Denave](https://www.linkedin.com/company/denave/)
   - [Goat Crypto](https://www.linkedin.com/company/the-goat-fund/)
   - [Supermind](https://www.linkedin.com/company/getsupermind/)
   - [Anakin](https://www.linkedin.com/company/anakintech)
+  - [Redbrick AI](https://www.linkedin.com/company/redbrick-ai/)
+
 - 📫 How to reach me: avanishcodes@gmail.com
 
 <br />
 
+## Some Interesting stuff
+
+- [Utilities App](https://avanishcodes.github.io/utilities) (nothing special, just make your tasks easy, without sharing any data with a website)
+
+<p align="center">
+  <a href="https://github.com/AvanishCodes/github-readme-streak-stats">
+    <img src="./assets/personal_projects/UtilitiesApp.png"/>
+  </a>
+</p>
+
+- [Multi Server HTTP Client](https://avanishcodes.github.io/multiserverhttpclient), wanna see how do your two applications/APIs compare in real time? Just hit both of them here, and see all what you want to.
+<p align="center">
+  <a href="https://github.com/AvanishCodes/github-readme-streak-stats">
+    <img src="./assets/personal_projects/MultiServerHTTPClient.png"/>
+  </a>
+</p>
 ---
 
 ## 🔥 My contribution streak
